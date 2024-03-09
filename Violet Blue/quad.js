@@ -138,7 +138,7 @@ var Violet_Blue_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 61,
       'm': 0,

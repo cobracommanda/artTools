@@ -1,4 +1,4 @@
-var Purple_Mountains’_Majesty_analogic_complement = [
+var Purple_Mountains_Majesty_analogic_complement = [
   {
     'name': 'Inchworm',
     'cmyk': {

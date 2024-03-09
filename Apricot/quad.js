@@ -1,6 +1,6 @@
 var Apricot_quad = [
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 63,
       'm': 0,
@@ -23,7 +23,7 @@ var Apricot_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 62,
       'm': 0,
@@ -46,7 +46,7 @@ var Apricot_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 60,
       'm': 0,

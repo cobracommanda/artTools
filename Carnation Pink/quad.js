@@ -69,7 +69,7 @@ var Carnation_Pink_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 66,
       'm': 0,
@@ -92,7 +92,7 @@ var Carnation_Pink_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 65,
       'm': 0,
@@ -115,7 +115,7 @@ var Carnation_Pink_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 63,
       'm': 0,

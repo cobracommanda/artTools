@@ -1,6 +1,6 @@
 var Caribbean_Green_analogic = [
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 74,
       'm': 0,
@@ -23,7 +23,7 @@ var Caribbean_Green_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 74,
       'm': 0,
@@ -46,7 +46,7 @@ var Caribbean_Green_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 73,
       'm': 0,
@@ -69,7 +69,7 @@ var Caribbean_Green_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 73,
       'm': 0,
@@ -92,7 +92,7 @@ var Caribbean_Green_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 73,
       'm': 0,

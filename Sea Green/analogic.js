@@ -1,6 +1,6 @@
 var Sea_Green_analogic = [
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 72,
       'm': 0,
@@ -23,7 +23,7 @@ var Sea_Green_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 71,
       'm': 0,

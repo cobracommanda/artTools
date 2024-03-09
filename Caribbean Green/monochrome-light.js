@@ -161,7 +161,7 @@ var Caribbean_Green_monochrome_light = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 74,
       'm': 0,
@@ -184,7 +184,7 @@ var Caribbean_Green_monochrome_light = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 68,
       'm': 0,
@@ -207,7 +207,7 @@ var Caribbean_Green_monochrome_light = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 61,
       'm': 0,

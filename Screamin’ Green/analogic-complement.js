@@ -1,4 +1,4 @@
-var Screamin’_Green_analogic_complement = [
+var Screamin_Green_analogic_complement = [
   {
     'name': 'Seance',
     'cmyk': {

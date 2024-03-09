@@ -1,6 +1,6 @@
 var Pink_Sherbet_complement = [
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 63,
       'm': 0,
@@ -23,7 +23,7 @@ var Pink_Sherbet_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 62,
       'm': 0,

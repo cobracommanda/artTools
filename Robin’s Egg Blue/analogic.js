@@ -1,4 +1,4 @@
-var Robin’s_Egg_Blue_analogic = [
+var Robins_Egg_Blue_analogic = [
   {
     'name': 'Malibu',
     'cmyk': {

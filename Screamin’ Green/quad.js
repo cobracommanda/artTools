@@ -1,4 +1,4 @@
-var Screamin’_Green_quad = [
+var Screamin_Green_quad = [
   {
     'name': 'Bright Turquoise',
     'cmyk': {

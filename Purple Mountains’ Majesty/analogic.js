@@ -1,4 +1,4 @@
-var Purple_Mountains’_Majesty_analogic = [
+var Purple_Mountains_Majesty_analogic = [
   {
     'name': 'Heliotrope',
     'cmyk': {

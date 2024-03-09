@@ -207,7 +207,7 @@ var Caribbean_Green_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 67,
       'm': 0,
@@ -230,7 +230,7 @@ var Caribbean_Green_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 66,
       'm': 0,
@@ -253,7 +253,7 @@ var Caribbean_Green_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 65,
       'm': 0,
@@ -276,7 +276,7 @@ var Caribbean_Green_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 64,
       'm': 0,
@@ -299,7 +299,7 @@ var Caribbean_Green_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 62,
       'm': 0,
@@ -322,7 +322,7 @@ var Caribbean_Green_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 61,
       'm': 0,

@@ -253,7 +253,7 @@ var Spring_Green_monochrome_light = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 67,
       'm': 0,
@@ -276,7 +276,7 @@ var Spring_Green_monochrome_light = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 61,
       'm': 0,
@@ -299,7 +299,7 @@ var Spring_Green_monochrome_light = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 55,
       'm': 0,

@@ -115,7 +115,7 @@ var Green_Yellow_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 50,
       'm': 0,
@@ -138,7 +138,7 @@ var Green_Yellow_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 56,
       'm': 0,
@@ -161,7 +161,7 @@ var Green_Yellow_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 62,
       'm': 0,
@@ -184,7 +184,7 @@ var Green_Yellow_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 68,
       'm': 0,
@@ -207,7 +207,7 @@ var Green_Yellow_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 67,
       'm': 0,
@@ -230,7 +230,7 @@ var Green_Yellow_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 67,
       'm': 0,
@@ -253,7 +253,7 @@ var Green_Yellow_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 66,
       'm': 0,

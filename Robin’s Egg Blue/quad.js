@@ -1,4 +1,4 @@
-var Robin’s_Egg_Blue_quad = [
+var Robins_Egg_Blue_quad = [
   {
     'name': 'Heliotrope',
     'cmyk': {

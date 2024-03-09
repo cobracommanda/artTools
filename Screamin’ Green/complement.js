@@ -1,4 +1,4 @@
-var Screamin’_Green_complement = [
+var Screamin_Green_complement = [
   {
     'name': 'Electric Violet',
     'cmyk': {

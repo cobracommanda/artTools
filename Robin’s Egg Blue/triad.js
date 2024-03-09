@@ -1,4 +1,4 @@
-var Robin’s_Egg_Blue_triad = [
+var Robins_Egg_Blue_triad = [
   {
     'name': 'Purple Pizzazz',
     'cmyk': {

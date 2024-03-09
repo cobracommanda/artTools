@@ -1,4 +1,4 @@
-var Screamin’_Green_analogic = [
+var Screamin_Green_analogic = [
   {
     'name': 'Bright Green',
     'cmyk': {

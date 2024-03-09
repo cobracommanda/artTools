@@ -1,4 +1,4 @@
-var Purple_Mountains’_Majesty_triad = [
+var Purple_Mountains_Majesty_triad = [
   {
     'name': 'Sandy brown',
     'cmyk': {

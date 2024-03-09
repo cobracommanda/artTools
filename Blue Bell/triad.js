@@ -92,7 +92,7 @@ var Blue_Bell_triad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 50,
       'm': 0,
@@ -115,7 +115,7 @@ var Blue_Bell_triad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 49,
       'm': 0,
@@ -138,7 +138,7 @@ var Blue_Bell_triad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 48,
       'm': 0,

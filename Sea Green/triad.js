@@ -184,7 +184,7 @@ var Sea_Green_triad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 66,
       'm': 0,
@@ -207,7 +207,7 @@ var Sea_Green_triad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 64,
       'm': 0,

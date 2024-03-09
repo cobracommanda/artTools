@@ -322,7 +322,7 @@ var Pine_Green_monochrome = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 81,
       'm': 0,

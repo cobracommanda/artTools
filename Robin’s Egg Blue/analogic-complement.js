@@ -1,4 +1,4 @@
-var Robin’s_Egg_Blue_analogic_complement = [
+var Robins_Egg_Blue_analogic_complement = [
   {
     'name': 'Burnt Sienna',
     'cmyk': {

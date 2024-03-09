@@ -1,4 +1,4 @@
-var Robin’s_Egg_Blue_monochrome = [
+var Robins_Egg_Blue_monochrome = [
   {
     'name': 'Bright Turquoise',
     'cmyk': {

@@ -299,7 +299,7 @@ var Melon_analogic_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 50,
       'm': 0,
@@ -322,7 +322,7 @@ var Melon_analogic_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 60,
       'm': 0,

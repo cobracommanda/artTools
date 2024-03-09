@@ -1,4 +1,4 @@
-var Screamin’_Green_monochrome = [
+var Screamin_Green_monochrome = [
   {
     'name': 'Verdun Green',
     'cmyk': {

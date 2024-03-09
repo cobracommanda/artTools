@@ -1,4 +1,4 @@
-var Screamin’_Green_monochrome_light = [
+var Screamin_Green_monochrome_light = [
   {
     'name': 'Tundora',
     'cmyk': {

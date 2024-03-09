@@ -92,7 +92,7 @@ var Pink_Sherbet_analogic_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 59,
       'm': 0,

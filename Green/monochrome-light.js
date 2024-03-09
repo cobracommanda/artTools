@@ -253,7 +253,7 @@ var Green_monochrome_light = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 76,
       'm': 0,
@@ -276,7 +276,7 @@ var Green_monochrome_light = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 70,
       'm': 0,
@@ -299,7 +299,7 @@ var Green_monochrome_light = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 63,
       'm': 0,

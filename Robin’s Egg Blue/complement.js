@@ -1,4 +1,4 @@
-var Robin’s_Egg_Blue_complement = [
+var Robins_Egg_Blue_complement = [
   {
     'name': 'Carnation',
     'cmyk': {

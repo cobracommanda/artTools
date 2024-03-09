@@ -138,7 +138,7 @@ var Granny_Smith_Apple_monochrome_light = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 44,
       'm': 0,

@@ -138,7 +138,7 @@ var Green_Yellow_analogic_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 69,
       'm': 0,
@@ -161,7 +161,7 @@ var Green_Yellow_analogic_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 68,
       'm': 0,

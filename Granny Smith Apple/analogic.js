@@ -46,7 +46,7 @@ var Granny_Smith_Apple_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 51,
       'm': 0,
@@ -69,7 +69,7 @@ var Granny_Smith_Apple_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 56,
       'm': 0,
@@ -92,7 +92,7 @@ var Granny_Smith_Apple_analogic = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 58,
       'm': 0,

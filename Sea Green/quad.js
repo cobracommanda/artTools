@@ -207,7 +207,7 @@ var Sea_Green_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 64,
       'm': 0,

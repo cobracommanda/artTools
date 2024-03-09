@@ -1,4 +1,4 @@
-var Screamin’_Green_triad = [
+var Screamin_Green_triad = [
   {
     'name': 'Navy Blue',
     'cmyk': {

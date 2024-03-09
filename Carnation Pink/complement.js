@@ -1,6 +1,6 @@
 var Carnation_Pink_complement = [
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 70,
       'm': 0,
@@ -23,7 +23,7 @@ var Carnation_Pink_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 68,
       'm': 0,
@@ -46,7 +46,7 @@ var Carnation_Pink_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 67,
       'm': 0,
@@ -69,7 +69,7 @@ var Carnation_Pink_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 66,
       'm': 0,
@@ -92,7 +92,7 @@ var Carnation_Pink_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 65,
       'm': 0,
@@ -115,7 +115,7 @@ var Carnation_Pink_complement = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 63,
       'm': 0,

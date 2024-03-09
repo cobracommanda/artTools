@@ -1,4 +1,4 @@
-var Purple_Mountains’_Majesty_monochrome_dark = [
+var Purple_Mountains_Majesty_monochrome_dark = [
   {
     'name': 'Electric Violet',
     'cmyk': {

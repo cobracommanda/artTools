@@ -138,7 +138,7 @@ var Sea_Green_monochrome = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 77,
       'm': 0,
@@ -161,7 +161,7 @@ var Sea_Green_monochrome = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 71,
       'm': 0,
@@ -184,7 +184,7 @@ var Sea_Green_monochrome = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 65,
       'm': 0,

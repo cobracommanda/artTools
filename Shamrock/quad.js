@@ -207,7 +207,7 @@ var Shamrock_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 61,
       'm': 0,
@@ -230,7 +230,7 @@ var Shamrock_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 60,
       'm': 0,
@@ -253,7 +253,7 @@ var Shamrock_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 59,
       'm': 0,
@@ -276,7 +276,7 @@ var Shamrock_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 58,
       'm': 0,
@@ -299,7 +299,7 @@ var Shamrock_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 57,
       'm': 0,
@@ -322,7 +322,7 @@ var Shamrock_quad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 56,
       'm': 0,

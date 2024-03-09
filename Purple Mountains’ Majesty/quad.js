@@ -1,4 +1,4 @@
-var Purple_Mountains’_Majesty_quad = [
+var Purple_Mountains_Majesty_quad = [
   {
     'name': 'Carnation',
     'cmyk': {

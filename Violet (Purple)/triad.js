@@ -115,7 +115,7 @@ var Violet_(Purple)_triad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 72,
       'm': 0,
@@ -138,7 +138,7 @@ var Violet_(Purple)_triad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 71,
       'm': 0,
@@ -161,7 +161,7 @@ var Violet_(Purple)_triad = [
     }
   },
   {
-    'name': 'Screamin' Green',
+    'name': 'Screamin Green',
     'cmyk': {
       'c': 70,
       'm': 0,

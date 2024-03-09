@@ -1,4 +1,4 @@
-var Purple_Mountains’_Majesty_complement = [
+var Purple_Mountains_Majesty_complement = [
   {
     'name': 'Inchworm',
     'cmyk': {
