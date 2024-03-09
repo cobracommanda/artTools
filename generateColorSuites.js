@@ -1,18 +1,17 @@
-
-
-
+#include "Granny Smith Apple/analogic.js";
 #include "Granny Smith Apple/analogic-complement.js";
-#include "Granny Smith Apple/monochrome-dark.js"
-#include "Granny Smith Apple/monochrome-light.js";
-#include "Granny Smith Apple/monochrome.js";
 
 
 
-// createSwatches(Apricot_analogic_complement)
-createSwatches(Granny_Smith_Apple_analogic_complement)
-createSwatches(Granny_Smith_Apple_monochrome_dark)
-createSwatches(Granny_Smith_Apple_monochrome_light)
-createSwatches(Granny_Smith_Apple_monochrome)
+
+if (app.documents.length > 0) {
+    var doc = app.activeDocument;
+
+    // Call the createSwatches function with the desired color set
+    createSwatches(Granny_Smith_Apple_analogic_complement);
+} else {
+    alert("No document open.");
+}
 
 
 
